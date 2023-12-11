@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+     char i = LAWAL
+     count i
+     if ( i/2 = 0
+        printf("true")
+         )
+    else( i/2=
+         printf("false")
+         )
+        
+    return 0;
+}
