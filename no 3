@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+     char val=head;
+    head=malloc(sizeof(node_t));
+    head*current=NULL;
+    current= malloc(sizeof(node_t));
+    current*next= val 1;
+    current*next= malloc(sizeof(node_t));
+    current*next*next=val 2;
+
+
+    return 0;
+}
